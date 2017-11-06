@@ -1,0 +1,18 @@
+span {font-size: 120%;}
+
+li > span > span {width: 20%;}
+/* li > span > span + span {width: 30%;} */
+
+.wrapper-Kzarka {border: solid 2px red; color: red;}
+.wrapper-Nouver {border: solid 2px gold; color: gold;}
+.wrapper-Karanda {border: solid 2px skyblue; color: skyblue;}
+.wrapper-Kutum {border: solid 2px purple; color: purple;}
+.wrapper-RedNose {border: solid 2px black; color: black;}
+.wrapper-Bheg {border: solid 2px gray; color: gray;}
+.wrapper-DimTree {border: solid 2px yellowgreen; color: yellowgreen;}
+.wrapper-Mudster {border: solid 2px goldenrod; color: goldenrod;}
+
+/* .name {
+    margin-left: 0%;
+    margin-right: 20%;
+} */
